@@ -2,19 +2,11 @@
 
 A collection of most useful tools for social media osint.
 
-## Authors
 
-- [@osintambition](https://github.com/osintambition)
-
-- [@dheerajydv19](https://github.com/dheerajydv19)
-
-- [@swayamsopnic](https://twitter.com/Swayamsopnic16)
 
 
 ## 🚀 About Us
 
-### The Osint Ambition
-The OSINT Ambition is a comprehensive and dynamic project aimed at empowering people with the skills and knowledge necessary to effectively leverage open source
 
 ## Documentation
 
@@ -527,13 +519,13 @@ Contributions are always welcome!
 
 You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions.
 
-Official Mail - osintambition@gmail.com
+Official Mail - ashokabairwa382a@gmail.com
 
-GitHub - [https://github.com/osintambition](https://github.com/osintambition)
+GitHub - [https://github.com/Ashokabairwa382a]
 
-Twitter - [https://twitter.com/osintambition](https://twitter.com/osintambition)
 
-Telegram - [https://t.me/osintambition](https://t.me/osintambition)
+
+Telegram - [https://t.me/ashoka_bairwa_ideology]
 
 
 Developed with ❤️ in India 🇮🇳 
